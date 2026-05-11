@@ -59,6 +59,7 @@ int main(void)
             currentFrame++;
             if (currentFrame > 3) currentFrame = 0;
         }
+        //dadakajfhkfj
 
         // Update frame rectangle
         frameRec.x = currentFrame * frameWidth;
